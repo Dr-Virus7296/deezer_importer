@@ -473,7 +473,7 @@ def _zvuk_confirm_and_send(title, tracks):
 def import_zvuk():
     while True:
         modes = [
-            "📌 Подборки (как в dlna)",
+            "📌 Подборки",
             "📂 Жанры — вкладки с https://zvuk.com/genres",
             "Поиск плейлистов",
             "Вставить ссылку на плейлист",
